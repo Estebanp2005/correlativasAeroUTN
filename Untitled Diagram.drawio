@@ -197,7 +197,10 @@
           <mxGeometry x="80" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-57" value="NO CURSADA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hAp3d0yiwI-H9npznJT5-59" value="POSIBLE ABANDONO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
