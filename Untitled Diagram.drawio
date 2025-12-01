@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="1426" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2216" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -8,10 +8,10 @@
           <mxGeometry height="40" width="120" x="80" y="200" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="2. Sistemas de Representación en&lt;br&gt;Ingeniería&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="120" x="80" y="320" as="geometry" />
+          <mxGeometry height="40" width="120" x="80" y="330" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3. Diseño y Representación Aeroespacia" vertex="1">
-          <mxGeometry height="40" width="120" x="240" y="320" as="geometry" />
+          <mxGeometry height="40" width="120" x="240" y="330" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="4.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Álgebra y Geometría Analítica&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="80" y="440" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry height="40" width="120" x="480" y="830" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="13. Computación" vertex="1">
-          <mxGeometry height="40" width="120" x="430" y="210" as="geometry" />
+          <mxGeometry height="40" width="120" x="470" y="210" as="geometry" />
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="14. Análisis Matemático II " vertex="1">
           <mxGeometry height="40" width="120" x="480" y="720" as="geometry" />
@@ -183,8 +183,8 @@
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-53" edge="1" parent="1" source="hAp3d0yiwI-H9npznJT5-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" target="hAp3d0yiwI-H9npznJT5-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="220" y="420" as="sourcePoint" />
-            <mxPoint x="270" y="370" as="targetPoint" />
+            <mxPoint x="220" y="430" as="sourcePoint" />
+            <mxPoint x="270" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hAp3d0yiwI-H9npznJT5-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="CURSANDO" vertex="1">
